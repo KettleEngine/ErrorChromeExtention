@@ -1,0 +1,12 @@
+html {
+  min-height: 200px;
+  min-width: 200px;
+}
+
+div.errorMaster {
+  background-color: red;
+}
+
+div.errorMaster:hover {
+  background-color: blue;
+}
