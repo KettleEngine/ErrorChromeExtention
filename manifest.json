@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Error Searcher",
+  "version": "1.0",
+  "minimum_chrome_version": "10.0",
+  "devtools_page": "devtools.html",
+  "icons": {
+    "64": "images/icon-64.png"
+  }
+}
